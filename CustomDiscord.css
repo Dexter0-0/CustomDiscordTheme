@@ -251,7 +251,7 @@
   #app-mount .scrollableContainer-2NUZem {
     background: var(--background-alt);
     box-shadow: var(--box-shadow);
-    border-radius: var(--border-radius);
+    border-radius: var(--border-radius-input);
   }
   #app-mount .placeholder-37qJjk {
     text-transform: uppercase;
