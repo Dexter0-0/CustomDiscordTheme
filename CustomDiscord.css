@@ -8,7 +8,7 @@
     --discord-invisible: 117 128 142;
     --discord-nitro: 255 115 250;
     --discord-blurple: 114 137 218;
-    --discord-spotify: 29 185 84;
+    --discord-spotify: 29 123 185;
     --discord-twitch: 89 54 149;
     --discord-xbox: 16 124 16;
     --background-modifier-selected: var(--background-light);
@@ -46,7 +46,7 @@
     --background-dark: #131519;
     --text-normal: #acacac;
     --text-muted: #686a6d;
-    --text-focus: #3283cf;
+    --text-focus: #378fe2;
     --font-weight-light: 300;
     --font-weight-normal: 400;
     --font-weight-semibold: 500;
