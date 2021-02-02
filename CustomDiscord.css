@@ -1,5 +1,5 @@
 :root {
-    --border-radius: 10px;
+    --border-radius: 20px;
     --discord-green: 67 181 129;
     --discord-yellow: 219 171 9;
     --discord-red: 215 58 73;
@@ -40,10 +40,10 @@
   .theme-dark {
     --background-light: #22262e;
     --background-light-alt: #1f2329;
-    --background: black;
+    --background: #171a1f;
     --background-alt: #1b1f25;
     --background-dark: #131519;
-    --text-normal: #d1d1d2;
+    --text-normal: #acacac;
     --text-muted: #686a6d;
     --text-focus: #fff;
     --font-weight-light: 300;
