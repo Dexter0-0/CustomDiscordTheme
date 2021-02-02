@@ -1,6 +1,6 @@
 :root {
     --border-radius: 5px;
-    --border-radius-input: 10px;
+    --border-radius-input: 20px;
     --discord-green: 67 181 129;
     --discord-yellow: 29 123 185;
     --discord-red: 215 58 73;
@@ -251,7 +251,7 @@
     content: none;
   }
   #app-mount .scrollableContainer-2NUZem {
-    background: var(--background-alt);
+    background: var(--background-dark);
     box-shadow: var(--box-shadow);
     border-radius: var(--border-radius-input);
   }
