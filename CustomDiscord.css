@@ -146,6 +146,7 @@
   }
   #app-mount .guilds-1SWlCJ .scroller-2TZvBN {
     background: var(--background-dark);
+    padding: 5px;
   }
   #app-mount .guilds-1SWlCJ .scroller-2TZvBN::-webkit-scrollbar {
     display: none;
@@ -282,8 +283,8 @@
     padding-top: var(--message-padding);
     padding-bottom: var(--message-padding);
     padding-left: 0;
-    margin-left: 16px;
-    margin-right: 8px;
+    margin-left: 25px;
+    margin-right: 12px;
     position: relative;
   }
   #app-mount .cozy-3raOZG:before {
@@ -728,6 +729,7 @@
     left: 0;
     width: 4px;
     height: 100%;
+    color: var(--scrollbar-colour);
     background: rgba(var(--accent), 1);
   }
   
