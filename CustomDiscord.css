@@ -2,7 +2,7 @@
     --border-radius: 5px;
     --border-radius-input: 10px;
     --discord-green: 67 181 129;
-    --discord-yellow: 219 171 9;
+    --discord-yellow: 29 123 185;
     --discord-red: 215 58 73;
     --discord-purple: 89 54 149;
     --discord-invisible: 117 128 142;
@@ -16,6 +16,7 @@
     --background-modifier-active: var(--background-light);
     --channels-default: var(--text-normal);
     --version: "2.0.7";
+    
   }
   
   .theme-light {
@@ -55,7 +56,8 @@
     --box-shadow-alt: 0 2px 5px rgba(0 0 0 / 0.3);
     --scrollbar-colour: #3283cf;
     --edit-message-box: var(--background-light);
-    --message-background: var(--background-alt);
+    --message-background: var(--background-dark);
+    --background-mentioned: #2668a5;
   }
   
   #app-mount .bg-h5JY_x {
