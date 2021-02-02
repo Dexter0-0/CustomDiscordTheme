@@ -52,7 +52,7 @@
     --font-weight-bold: 700;
     --box-shadow: 0 4px 9px rgba(0 0 0 / 0.4);
     --box-shadow-alt: 0 2px 5px rgba(0 0 0 / 0.3);
-    --scrollbar-colour: var(--background-light);
+    --scrollbar-colour: #2077c4;
     --edit-message-box: var(--background-light);
     --message-background: var(--background-alt);
   }
