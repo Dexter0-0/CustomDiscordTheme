@@ -1,5 +1,6 @@
 :root {
     --border-radius: 5px;
+    --border-radius-input: 10px;
     --discord-green: 67 181 129;
     --discord-yellow: 219 171 9;
     --discord-red: 215 58 73;
@@ -45,14 +46,14 @@
     --background-dark: #131519;
     --text-normal: #acacac;
     --text-muted: #686a6d;
-    --text-focus: #fff;
+    --text-focus: #3283cf;
     --font-weight-light: 300;
     --font-weight-normal: 400;
     --font-weight-semibold: 500;
     --font-weight-bold: 700;
     --box-shadow: 0 4px 9px rgba(0 0 0 / 0.4);
     --box-shadow-alt: 0 2px 5px rgba(0 0 0 / 0.3);
-    --scrollbar-colour: #2077c4;
+    --scrollbar-colour: #3283cf;
     --edit-message-box: var(--background-light);
     --message-background: var(--background-alt);
   }
@@ -480,7 +481,7 @@
   
   #app-mount .newMessagesBar-265mhP {
     background: rgba(var(--accent), 1);
-    border-radius: var(--border-radius);
+    border-radius: var(--border-radius-input);
     top: 10px;
     left: 26px;
     right: 26px;
@@ -803,7 +804,7 @@
   #app-mount .input-cIJ7To {
     background: var(--background-dark);
     border: 1px solid var(--background-dark);
-    border-radius: var(--border-radius);
+    border-radius: var(--border-radius-input);
   }
   #app-mount .input-cIJ7To:hover {
     border-color: var(--background-light);
